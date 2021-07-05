@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;;
+    
+
+}
+.banner img{
+    width: 100%;
+    height: 50vh;
+   margin: 0;
+    
+}
+.banner-text{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-shadow: 0 0 10px black;
+}
+.half-width{
+    width: 50%;
+    padding-left:2%;
+    
+    
+}
+.half-width img{
+  width: 80%;
+}
+.order{
+    text-decoration: none;
+     background-image: linear-gradient(to right, orange, tomato);
+     padding: 10px 20px;
+     font-weight: 800;
+     border-radius: 20px;
+     color: white;
+}
+.flexible-container{
+    display: flex;
+     
+    margin-bottom: 100px;
+}
+.button-color{
+    color: orange;
+    font-size: 30px;
+}
+h1{
+    font-weight:bold;
+}
+.text{
+    font-size: 30px;
+    font-weight: bold;
+}
+.about-us{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
