@@ -91,7 +91,11 @@ body p {
     text-align: center;
 }
 .delivery-details{
-    box-shadow:2px 2px 25px gray  ;
+    margin-top: 10px;
+    padding: 10px;
+    width:250px;
+    
+    box-shadow:2px 2px 20px gray  ;
 }
 .statistic {
     text-align: center;
